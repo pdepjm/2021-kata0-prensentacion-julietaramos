@@ -1,7 +1,10 @@
-# Presentación
+# Presentación: 
 
 ## Estudiante: Julieta Ramos
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
 
 ![mi foto](image0.jpeg)
+
+Hola! Soy Juli, tengo 21 años. Esta es mi tercer carrera porque pase por gestión de medios y por comunicación que por suerte se parece mucho a ingeniería en sistemas. 
+Trabajo como tutora de desarrollo web en Coder house. 
+Mis hobbies son ver películas e ir a correr 🤷‍♀️
